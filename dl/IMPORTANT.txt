@@ -1,0 +1,13 @@
+Remember create the database and configure the programs. Follow the installation instructions:
+1) Install WampServer
+2) Download the this folder (dl/) over C://wamp64/www/
+3) Create a database called dl and import the dl.sql file
+4) Access to the application (http://localhost/dl/)
+5) Remove the dl.sql file
+
+To access to the admin panel follow the next instructions:
+1) Go to http://localhost/dl/admin/
+2) Use the next credentials:
+- user: admin
+- pass: 123456
+
